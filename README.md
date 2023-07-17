@@ -1,4 +1,4 @@
-#Basic recipe website
+## Basic recipe website
 - Setup main index page with few links to recipes using HTML5
 - Crete the recipe web pages using given instructions
 
